@@ -13,8 +13,11 @@ Sommige insecten zijn meer waard dan andere.
 
 # Gameplaykern
 Bal: een bal van doodelijke gas
+
 Pegs: insecten (kakkerlak, mug, vlieg, wesp, termiet)  
+
 Score: punten per insect, Money Meter 
+
 Doel: krijg je entire Money Meter om een bonus te halen! 
 
 # Stijl van het spel 

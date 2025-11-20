@@ -31,4 +31,4 @@ Doel: krijg je entire Money Meter om een bonus te halen!
 - Onder: De vuilnesbak waar je kunt alle insecten weggooien
 
 [link](../Peggle_Game/Assets/RandomItems.cs)
-![image](../Peggle_Game/gifs/Recording%202025-11-20%20152138.gif)
+![image](../Downloads/randomiser.gif)

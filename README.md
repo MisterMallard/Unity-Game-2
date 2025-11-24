@@ -32,3 +32,4 @@ Doel: krijg je entire Money Meter om een bonus te halen!
 
 [link](../Peggle_Game/Assets/RandomItems.cs)
 ![image](../Peggle_Game/gifs/randomiser.gif)
+![image](../Peggle_Game/gifs/Screenshot%202025-11-24%20100628.png)
